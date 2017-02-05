@@ -1,6 +1,6 @@
 # Man
 
-you can open [a manual of Ruby methods](http://ruby-doc.org/) so quickly
+You can open [a manual of Ruby methods](http://ruby-doc.org/) so quickly
 
 
 ## Installation
@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-if you want to know about Array#shuffle!, call `man` with an Array object and a method name.
+If you want to know about Array#shuffle!, call `man` with an Array object and a method name.
 
 ```ruby
 man Array.new, :shuffle!

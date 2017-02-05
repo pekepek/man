@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["pekepek"]
   spec.email         = ["ishihata@33i.co.jp"]
 
-  spec.summary       = %q{you can open a manual of Ruby methods so quickly}
-  spec.description   = %q{you can open a manual of Ruby methods so quickly}
+  spec.summary       = %q{You can open a manual of Ruby methods so quickly}
+  spec.description   = %q{You can open a manual of Ruby methods so quickly}
   spec.homepage      = "https://github.com/pekepek/man"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
